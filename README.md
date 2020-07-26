@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=j40903272&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j40903272&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j40903272&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **j40903272/j40903272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
