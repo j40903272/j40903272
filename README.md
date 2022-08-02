@@ -1,4 +1,10 @@
-### Hi there 👋
+### 📖 About me 👋
+
+- 😄 I'm a PhDc at [NTUCSIE](https://csie.ntu.edu.tw/)
+- ⭐ I have 210 stars on GitHub
+- 🐼 I'm a member of [@MSLAB](https://mslab.csie.ntu.edu.tw)
+- 🦊 My research area includes Recommendation, Beyasian learning and Adversarial learning
+- 🐨 My programming skills include C/C++, Java, Javascript, SQL and Python
 
 ![](https://komarev.com/ghpvc/?username=j40903272&color=brightgreen)
 
@@ -18,6 +24,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j40903272&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 Here are some ideas to get you started:
 
