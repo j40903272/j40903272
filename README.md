@@ -3,8 +3,8 @@
 - 😄 I'm a PhDc at [NTUCSIE](https://csie.ntu.edu.tw/)
 - ⭐ I have 232 stars on GitHub
 - 🐼 I'm a member of [@MSLAB](https://mslab.csie.ntu.edu.tw)
-- 🦊 My research area includes LLMs, Recommendation, Beyasian learning and Adversarial learning
-- 🐨 My programming skills include C/C++, Java, Javascript, SQL and Python
+- 🦊 My research area includes LLMs, Recommendation, Beyasian learning and Adversarial learning [Semantic Scholar](https://www.semanticscholar.org/author/Yun-Da-Tsai/3328096)
+- 🐨 My programming skills include C/C++, Java, c#, Javascript, SQL and Python
 
 ![](https://komarev.com/ghpvc/?username=j40903272&color=brightgreen)
 
