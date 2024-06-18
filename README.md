@@ -3,7 +3,7 @@
 - 😄 I'm a PhDc at [NTUCSIE](https://csie.ntu.edu.tw/)
 - ⭐ I have 232 stars on GitHub
 - 🐼 I'm a member of [@MSLAB](https://mslab.csie.ntu.edu.tw)
-- 🦊 My research area includes Generative AI, Recommendation, Beyasian learning and Adversarial learning
+- 🦊 My research area includes LLMs, Recommendation, Beyasian learning and Adversarial learning
 - 🐨 My programming skills include C/C++, Java, Javascript, SQL and Python
 
 ![](https://komarev.com/ghpvc/?username=j40903272&color=brightgreen)
