@@ -1,10 +1,11 @@
 ### 📖 About me 👋
 
-- 😄 I'm a PhDc at [NTUCSIE](https://csie.ntu.edu.tw/)
-- ⭐ I have 564 stars on GitHub
+- 😄 I'm got my PhD at [NTUCSIE](https://csie.ntu.edu.tw/)
+- ⭐ I have 568 stars on GitHub
 - 🐼 I'm a member of [@MSLAB](https://mslab.csie.ntu.edu.tw)
-- 🦊 My research area includes LLMs, Recommendation, Beyasian learning and Adversarial learning [Semantic Scholar](https://www.semanticscholar.org/author/Yun-Da-Tsai/3328096)
+- 🦊 My research area includes LLMs, Recommendation, Beyasian learning and Adversarial learning [Googlw Scholar]([https://www.semanticscholar.org/author/Yun-Da-Tsai/3328096](https://scholar.google.com/citations?user=mZvcGhoAAAAJ&hl=zh-TW))
 - 🐨 My programming skills include C/C++, Java, C#, Javascript, SQL, Slurm and Python
+- 📑 Here is my resume [cake](https://www.cake.me/s--I4fgIIxSwo7llT2kJ7L9dg--/bb04902103)
 
 ![](https://komarev.com/ghpvc/?username=j40903272&color=brightgreen)
 
