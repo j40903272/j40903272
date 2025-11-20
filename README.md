@@ -1,5 +1,6 @@
 ### 📖 About me 👋
 
+- 🔥 I'm a research scientist at Meta FAIR
 - 😄 I'm got my PhD at [NTUCSIE](https://csie.ntu.edu.tw/)
 - ⭐ I have 568 stars on GitHub
 - 🐼 I'm a member of [@MSLAB](https://mslab.csie.ntu.edu.tw)
