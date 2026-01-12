@@ -11,10 +11,10 @@
 ![](https://komarev.com/ghpvc/?username=j40903272&color=brightgreen)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=j40903272&count_private=true&show_icons=true" />
+  <img align="left" src="http://34.42.87.112/api?username=j40903272&count_private=true&show_icons=true&&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j40903272&hide=jupyter+notebook" />
+  <img align="left" src="http://34.42.87.112/api/top-langs/?username=j40903272&hide=jupyter+notebook" />
 </a>
 
 
